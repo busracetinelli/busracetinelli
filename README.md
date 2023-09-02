@@ -1,7 +1,7 @@
 # 💫 BackEnd Developer
-### Hi there 👋<br><br>I am a passionate software developer with experience in both small andlarge-scale projects. I have experience in programming languages such<br>as HTML, CSS, JavaScript, C#, .Net MVC, and .Net Core. I also have<br>experience in implementing software development methodologies such<br>as Agile and Scrum.<br>I am creative and analytical in solving complex software problems, and I<br>enjoy collaborating with my teammates. I am committed to staying up-todate with industry innovations and learning new technologies to deliversolutions that meet our clients' needs.<br>
+### Hi there 👋<br><br>I am a passionate software developer with experience in both small andlarge-scale projects. I have experience in programming languages such<br>as HTML, CSS, JavaScript, C#, .Net MVC, and .Net Core. I also have<br>experience in implementing software development methodologies such<br>as Agile and Scrum.<br>I am creative and analytical in solving complex software problems, and I<br>enjoy collaborating with my teammates. I am committed to staying up-todate with industry innovations and learning new technologies to deliversolutions that meet our clients' needs.
 ---
-- 🔭 I’m currently working on UNIPA<br>- 🌱 I’m currently learning ReactJS<br>- 📫 How to reach me:
+<br>- 🔭 I’m currently working on UNIPA<br>- 🌱 I’m currently learning ReactJS<br>- 📫 How to reach me:
 
 
 ## 🌐 Socials:
